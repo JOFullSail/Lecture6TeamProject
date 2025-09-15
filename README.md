@@ -1,9 +1,11 @@
 # Lecture6TeamProject
 
-- Chris Chapman | I like icecream | whats this about?
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 - Kathryn Bowles | SrirachaSoup | kb0wles
-- Israel Iosevich | ice | ice489
 - Jennifer Brooks | i.am.barbie | iAm-Barbie
-- Jarret Olsen | lacuna02 | JOFullSai
-
-
+- Isaac Teran Sanchez | Isaac Teran Sanchez| ITeran
+- Chris Chapman | I like icecream | whats this about?
+- Israel Iosevich | ice | ice489
+- Jarret Olsen | lacuna02 | JOFullSail
