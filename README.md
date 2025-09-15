@@ -2,6 +2,4 @@
 
 
 
-## - Jarret Olsen
-### - Discord: lacuna02
-### - GitHub: JOFullSail
+## - Jarret Olsen | Discord: lacuna02 | Github: JOFullSail
